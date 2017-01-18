@@ -1,0 +1,26 @@
+{
+  "name": "Select2/SymfonyBundle",
+  "description": "Combine the select2 library with the symfony assets manager",
+  "keywords": [
+    "select2",
+    "symfony3"
+  ],
+  "license": "MIT",
+  "type": "package",
+  "authors": [
+    {
+      "name": "Marc Dubbe",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Select2\\SymfonyBundle\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  }
+}
