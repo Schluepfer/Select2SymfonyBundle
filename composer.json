@@ -1,5 +1,5 @@
 {
-  "name": "Select2/SymfonyBundle",
+  "name": "Schluepfer/SymfonyBundle",
   "description": "Combine the select2 library with the symfony assets manager",
   "keywords": [
     "select2",
